@@ -1,2 +1,2 @@
-# hola, it's mikus!
-## wanna-be ai research focused on NLP and audio generation
+yo yo it's mikus <br>
+im a 15 y/o who makes actual turds
