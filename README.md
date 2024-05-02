@@ -1,1 +1,1 @@
-im a guy who wants to research ai by making it available for home users.
+want to research ai n make thing ok thanks thats my bio goodbye
