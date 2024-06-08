@@ -1,1 +1,3 @@
-want to research ai n make thing ok thanks thats my bio goodbye
+## hi im mikus
+
+i do general machine learning research, audio manipulation and high-level apps
