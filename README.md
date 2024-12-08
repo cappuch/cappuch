@@ -1,3 +1,2 @@
 ## hi im mikus
-
-i do general machine learning research, audio manipulation and high-level apps
+i can do python at a p good level, i've represented my school plenty of times in competitions and wound up in a national competition for ai (i think that means i know a thing or two.)
