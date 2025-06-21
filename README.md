@@ -1,5 +1,8 @@
 # mikus
-i'm a machine learning engineer (atleast i think so), got 1 paper under my belt with hopefully more to come, doing a lot of robotics, agentic and multimodal stuff right now. audio is awesome too.
+programmer
+
+machine learning focused
+
 ## about me 
 - 16
 - gmt + 0
