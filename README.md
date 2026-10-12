@@ -4,7 +4,7 @@ programmer
 machine learning focused
 
 ## about me 
-- 17
+- 18
 - gmt + 0
 
 ### socials / whatevr
